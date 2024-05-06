@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush Oza</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+<--<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>-->
 
     <dotlottie-player align="right" src="https://lottie.host/31d6967b-4e9f-4599-a471-22658a40ea57/pethg7948w.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techtrooperaayush&label=Profile%20views&color=0e75b6&style=flat" alt="techtrooperaayush" /> </p>
